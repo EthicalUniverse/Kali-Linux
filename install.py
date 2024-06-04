@@ -17,6 +17,8 @@ def menu1():
   print(logo)
   print(line)
 
+install = input (f" \033[1;97m[\033[1;92m?\033[1;97m] Select Option :\033[1;33m")
+
 ###---------[Run]----------###
 
 menu1()
